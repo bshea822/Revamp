@@ -16,5 +16,5 @@ let tuna = {
 let shoppingCart = [apples, eggs, tuna];
 
 shoppingCart.forEach((item) => {
-  console.log(`${item.itemName}: ${item.quantity}`)
-})
+  console.log(`${item.itemName}: ${item.quantity}`);
+});
