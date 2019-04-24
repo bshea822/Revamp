@@ -1,0 +1,9 @@
+---
+title: "Running JavaScript"
+type: "article"  # challenge, exercise, article, video
+description: >
+  Learn about the different ways we can run JavaScript code, and our
+  preferred method for learning JavaScript.
+tags: "javascript"
+ignore:
+- "running-javascript.md"
